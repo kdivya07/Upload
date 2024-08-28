@@ -1,0 +1,7 @@
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/UploaddemoApplication.java
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/controller/AttachmentController.java
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/entity/Attachment.java
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/model/ResponseData.java
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/repository/AttachmentRepository.java
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/service/AttachmentService.java
+/Users/B0317258/Desktop/Backend Learning/Springboot-upload/uploaddemo/src/main/java/com/fileupload/sprinboot/uploaddemo/service/AttachmentServiceImpl.java
