@@ -1,0 +1,7 @@
+com/fileupload/sprinboot/uploaddemo/UploaddemoApplication.class
+com/fileupload/sprinboot/uploaddemo/model/ResponseData.class
+com/fileupload/sprinboot/uploaddemo/entity/Attachment.class
+com/fileupload/sprinboot/uploaddemo/service/AttachmentServiceImpl.class
+com/fileupload/sprinboot/uploaddemo/controller/AttachmentController.class
+com/fileupload/sprinboot/uploaddemo/service/AttachmentService.class
+com/fileupload/sprinboot/uploaddemo/repository/AttachmentRepository.class
